@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ik9840857-bot.github.io/bidalert-cms-blog/sitemap.xml
